@@ -1,9 +1,8 @@
 # Avast - Identity team interview task
 
 run:
-
-yarn install
-yarn start
+### `yarn install`
+### `yarn start`
 
 check:
 
